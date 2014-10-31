@@ -1,4 +1,1 @@
-drupal8-notes
-=============
-
-Random codes and notes for Drupal 8
+See drupal8notes.github.io
